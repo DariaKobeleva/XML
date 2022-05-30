@@ -1,4 +1,4 @@
-<bug_report>
+<Bug_report>
   <Summary>The 'Undo' button is disabled after clicking the 'Save' button</Summary>
 	<Pre-condition>The User1B was created</Pre-condition>
 	<STR>
@@ -9,4 +9,4 @@
 	
 	<ACT>The 'Undo' buttons is disabled after clicking the 'Save' button</ACT>
 	<EXP>The 'Undo' buttons is activated after clicking the 'Save' button</EXP>
-   </bug_report>
+   </Bug_report>
